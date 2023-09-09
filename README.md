@@ -12,16 +12,6 @@ Installation: No installation required
 ______________________________________________________________________________________________________________
 
 All answers are there in their respective python files.tall .' Thats it and now everything should be working.
-
-
-
-
-
-
-
-
-
-
-
 ______________________________________________________________________________________________________________
-Created by Virinchi
+Created by Virinchi: Must keep this for attribution
+
